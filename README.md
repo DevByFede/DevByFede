@@ -3,7 +3,7 @@ I'm Federico, Full-stack Developer & Project Manager based in Italy.
 
 For the last years, my stack was:
 <p align="left">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue&logoColor=4FC08D" />
+    <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
     <img src="https://img.shields.io/badge/Laravel-F23A2F?style=for-the-badge&logo=laravel&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-2b758f?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
