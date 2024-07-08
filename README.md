@@ -1,7 +1,7 @@
-## Hi everyone! 👋
+ ## Hi everyone! 👋
 I'm Federico, Full-stack Developer & Project Manager based in Italy.
 
-For the last years, my stack was:
+Stack I've worked with:
 <p align="left">
     <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
     <img src="https://img.shields.io/badge/Laravel-F23A2F?style=for-the-badge&logo=laravel&logoColor=white" />
