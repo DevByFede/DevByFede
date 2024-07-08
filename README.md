@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi everyone! 👋
+I'm Federico, Full-stack Developer & Project Manager based in Italy.
 
-<!--
-**DevByFede/DevByFede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For the last years, my stack was:
+<p align="left">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+    <img src="https://img.shields.io/badge/Laravel-F23A2F?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-2b758f?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+Now, I'm exploring to enhance my skill set:
+<p align="left">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-01ADD8?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☁ ️Other tools
+
+<p align="left">
+     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-0073ec?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-F36C38?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+## 📫 How to reach me
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/federico-razza-2b97a41b4/)
+- Follow me on [Instagram](https://www.instagram.com/devbyfede/)
