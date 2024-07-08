@@ -16,7 +16,7 @@ Now, I'm exploring to enhance my skill set:
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
-## ☁ ️Other tools
+## ☁ ️ Other tools
 
 <p align="left">
      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -25,7 +25,7 @@ Now, I'm exploring to enhance my skill set:
     <img src="https://img.shields.io/badge/Postman-F36C38?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-## 📫 How to reach me
+## 📫  How to reach me
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/federico-razza-2b97a41b4/)
 - Follow me on [Instagram](https://www.instagram.com/devbyfede/)
